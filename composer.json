@@ -1,0 +1,17 @@
+{
+    "name": "alex/dl-music.local",
+    "require": {
+        "norkunas/youtube-dl-php": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alex\\DlMusicLocal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Olexandr Yarymokha",
+            "email": "ya.alexandr.86@gmail.com"
+        }
+    ]
+}
